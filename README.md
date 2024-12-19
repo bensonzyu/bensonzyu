@@ -17,8 +17,8 @@ I'm currently completing my degree in Data Science and actively seeking full-tim
 
 Here are some of the key projects that highlight my capabilities:
 
-### [🏡 Predictive Analytics for Housing Prices](https://github.com/your-username/project1)
-- Built a machine learning model using Python to predict housing prices with 90% accuracy.
+### [🏡 Predictive Analytics for Airbnb Prices](https://github.com/bensonzyu/Airbnb-London)
+- Built a machine learning model using Python to predict Airbnb prices with 90% accuracy.
 - Conducted feature engineering, model optimization, and evaluation.
 
 ### [💬 Sentiment Analysis on Social Media](https://github.com/your-username/project2)
