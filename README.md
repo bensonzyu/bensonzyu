@@ -17,15 +17,15 @@ I'm currently completing my degree in Data Science and actively seeking full-tim
 
 Here are some of the key projects that highlight my capabilities:
 
-### [🏡 Predictive Analytics for Airbnb Prices](https://github.com/bensonzyu/Airbnb-London)
+### [🏡 Predictive Model for Airbnb Prices](https://github.com/bensonzyu/Airbnb-London)
 - Built a machine learning model using Python to predict Airbnb prices with 90% accuracy.
 - Conducted feature engineering, model optimization, and evaluation.
 
-### [💬 Sentiment Analysis on Social Media](https://github.com/your-username/project2)
+### [💬 Covid-19 Policy Proposals](https://github.com/bensonzyu/COVID-19-Policy-Proposals)
 - Analyzed sentiment trends in Twitter data using Natural Language Processing techniques.
 - Used Python libraries like `NLTK` and `TextBlob` for data preprocessing and sentiment scoring.
 
-### [📈 Sales Performance Dashboard](https://github.com/your-username/project3)
+### [📈 FIFA Players Analysis](https://github.com/bensonzyu/FIFA-Project)
 - Created an interactive Tableau dashboard to visualize sales data and key performance metrics.
 - Focused on improving data-driven decision-making.
 
@@ -33,9 +33,9 @@ Here are some of the key projects that highlight my capabilities:
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, R, SQL
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn, TensorFlow (Basics)
+- **Programming Languages**: Python, SQL, R
+- **Data Visualization**: Power BO, Tableau, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, TensorFlow
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, Jupyter Notebook, Excel
 
