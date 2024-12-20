@@ -53,6 +53,6 @@ I'm always excited to connect and collaborate! Reach out to me:
 
 ## 🌟 Highlights
 
-- 🌐 [Portfolio Website](https://bensonzyu.github.io)
+- 🌐 [Portfolio Website](https://github.com/bensonzyu)
 
 Thank you for visiting my repository! Feel free to explore, star ⭐, or fork 🍴 my projects!
